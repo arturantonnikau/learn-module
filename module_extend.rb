@@ -28,3 +28,5 @@ puts Quote.new.comment
 
 puts Post.ancestors.inspect
 puts Quote.ancestors.inspect
+
+# add last coment
