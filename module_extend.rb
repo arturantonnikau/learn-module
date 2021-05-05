@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+# Add Header Comment
 
 # Module Commentable
 module Commentable
