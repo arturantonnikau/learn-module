@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 # Add Header Comment
 
-# Module Commentable
 module Commentable
   def comment
     'I love comments!'
@@ -16,7 +15,6 @@ class Post
   end
 end
 
-# Class Quote
 class Quote
   include Commentable
 
