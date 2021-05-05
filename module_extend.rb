@@ -8,7 +8,6 @@ module Commentable
   end
 end
 
-# Class Post
 class Post
   extend Commentable
 
