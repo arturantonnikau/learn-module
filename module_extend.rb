@@ -16,7 +16,6 @@ class Post
   end
 end
 
-# Class Quote
 class Quote
   include Commentable
 
